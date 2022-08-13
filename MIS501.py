@@ -4,6 +4,7 @@ class commodity():
 
         self.product_name = product_name
         self.price = price
+        pass
 
 
 class Order():
